@@ -1,0 +1,13 @@
+{
+  "name": "mcsh",
+  "version": "1.0.0",
+  "bin": {
+    "mcsh": "./run.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "commander": "^7.1.0",
+    "download": "^8.0.0",
+    "minecraft-launcher-core": "^3.16.2"
+  }
+}
